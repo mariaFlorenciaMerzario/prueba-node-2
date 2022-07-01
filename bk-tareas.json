@@ -1,0 +1,9 @@
+
+{
+    "tareas":[
+        {"titulo":"Desarrolla una app de 1", "estado":"en proceso"},
+        {"titulo":"Desarrolla una app de 2", "estado":"en proceso"},
+        {"titulo":"Desarrolla una app de 3", "estado":"en suspenso"},
+        {"titulo":"Desarrolla una app de 4", "estado":"en proceso"}
+    ]
+}
